@@ -1,0 +1,8 @@
+name	idx	level	type	attack	air_attack	dp	hp	attack_spd	move_spd
+str	small	small	small	small	small	small	small	float	small
+name01	7	7	2	48	0	5	372	0.6	45
+name02	8	8	2	51	0	5	384	0.6	45
+name03	9	9	2	54	0	6	396	0.6	45
+name04	10	10	3	65	0	10	2550	0.5	50
+name05	11	1	4	30	70	0	375	1.7	25
+name06	12	2	4	33	77	0	390	1.7	25
